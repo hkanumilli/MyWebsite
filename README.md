@@ -1,3 +1,3 @@
 # MyWebsite
 
-My Personal Website: www.sriharshak.com
+My Personal Website: www.kanumilli.ai
